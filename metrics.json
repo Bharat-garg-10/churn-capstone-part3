@@ -1,0 +1,16 @@
+{
+  "model": "XGBoost",
+  "threshold": 0.3,
+  "accuracy": 0.7708,
+  "precision_churn": 0.7078,
+  "recall_churn": 0.9226,
+  "f1_churn": 0.801,
+  "roc_auc": 0.8723,
+  "pr_auc": 0.855,
+  "confusion_matrix": {
+    "TN": 104,
+    "FP": 64,
+    "FN": 13,
+    "TP": 155
+  }
+}
